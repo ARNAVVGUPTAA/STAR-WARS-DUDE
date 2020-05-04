@@ -94,7 +94,7 @@ function setup() {
   obstacle1 = new Ground(1100,500,10,300);
 
   tester = createSprite(0,0,50,50);
-  //tester.visible = false;
+  tester.visible = false;
   //button = new Button(1100,347,10,25);
 }
 
